@@ -78,3 +78,7 @@ como não é uma biblioteca desenvolvida para typescript, então precisa instala
 ### Vitest
 
 `npm i vitest vite-tsconfig-paths -D`
+
+## vitest Ui
+
+`npm i -D @vitest/ui`
